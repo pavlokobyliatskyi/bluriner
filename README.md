@@ -1,6 +1,14 @@
-<div style="text-align:center">
-    <img alt="#" src="assets/128x128.png" />
-</div>
+<!-- Logo -->
+<p align="center">
+  <img alt="#" src="assets/128x128.png" />
+</p>
+
+<!-- Name -->
+<h1 align="center">
+  Bluriner
+</h1>
+
+---
 
 The "Bluriner" is a prototype of a solution that helps to work with windows in a stream
 
