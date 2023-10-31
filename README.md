@@ -8,11 +8,9 @@
   Bluriner
 </h1>
 
----
+#### About
 
 The "Bluriner" is a prototype of a solution that helps to work with windows in a stream
-
----
 
 #### Compatibility
 
